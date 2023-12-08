@@ -88,4 +88,7 @@ b = [7,8,9,5]
 c=[a,b]
 print(c)
 
+x = 10
+name = 'name'
+print(str(x)+name)
 
